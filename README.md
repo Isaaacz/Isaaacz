@@ -31,7 +31,7 @@
 ### 🌐 Onde me encontrar
 
 - 📫 E-mail: **isaacinacioalves@outlook.com**  
-- 💼 LinkedIn: [linkedin.com/in/isaac-alves](https://linkedin.com/in/isaac-alves)  
+- 💼 LinkedIn: [linkedin.com/in/Isaac-Inacio](https://linkedin.com/in/Isaac-Inacio)  
 
 ---
 
