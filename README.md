@@ -13,7 +13,7 @@ I like building things people actually use, from the desktop environment running
 |---|---|---|
 | [**glasstty**](https://github.com/Isaaacz/glasstty) | A complete desktop environment for the niri compositor on Fedora: a notch-style bar, a control centre, and colours that follow the wallpaper across every app, live. Includes CI, a changelog and install scripts. | QML · Quickshell · Shell · Linux |
 | [**W&J Group website**](https://github.com/Isaaacz/DesafioVisaoJr-2025) | Responsive company website built for the Visão Jr. trainee challenge · [live demo](https://desafio-visao-jr-2025.vercel.app) | React · Vite · CSS Modules |
-| [**Inventory Manager**](https://github.com/Isaaacz/GerenciadordeEstoque-AEDS2) | Terminal inventory system with product management and activity logging, built for a Data Structures course. | C · CMake |
+| [**Inventory Manager**](https://github.com/Isaaacz/GerenciadordeEstoque-AEDS2) | Terminal inventory system that stores products in a binary file and benchmarks sequential vs. binary search on disk (90,000 vs. 17 comparisons on 100k records). Built for a Data Structures course. | C · CMake |
 | [**Word Search Solver**](https://github.com/Isaaacz/Caca-Palavras) | Solves word search puzzles by searching in all 8 directions, organised into abstract data types with dynamic memory allocation. | C |
 
 ---
